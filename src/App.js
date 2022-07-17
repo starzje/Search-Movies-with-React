@@ -15,7 +15,7 @@ const App = () => {
   };
 
   useEffect(() => {
-    searchSongs("Marko Perković");
+    searchSongs("Green Day");
   }, []);
 
   return (
